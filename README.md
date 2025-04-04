@@ -1,1 +1,2 @@
 # Vehicle_Detection_openCV
+This is a simple Vehicle Detection project using OpenCV. It uses either Haar Cascade Classifier to detect vehicles like cars  in real-time from videos or webcam. The project can count vehicles and highlight them with bounding boxes. It's built using Python and OpenCV, and can be easily run and customized. Just make sure to install the required libraries like OpenCV and NumPy, and run the script with your video or webcam feed.
